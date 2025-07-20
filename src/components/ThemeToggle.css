@@ -1,0 +1,15 @@
+.toggle-btn {
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #004d7a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Global Dark Mode */
+body.dark-mode {
+  background-color: #121212;
+  color: #f5f5f5;
+}
