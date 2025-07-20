@@ -3,7 +3,7 @@
 CrewSync is a React-based platform designed to streamline event coordination and volunteer tracking through an intuitive dashboard and smart scheduling system.
 
 ## ✨ Key Features
-- 🎭 Role-based Dashboards (/Organizer/ Volunteer)
+- 🎭 Role-based Dashboards (Organizer/ Volunteer)
 - 📅 Timeline visualization of contributions
 - 🌓 Light/Dark Mode Toggle
 - 🔒 Login and Signup System
@@ -13,7 +13,7 @@ CrewSync is a React-based platform designed to streamline event coordination and
 ## 🛠 Built With
 - ReactJS
 - Vite
-- CSS3
+- CSS
 - Git & GitHub
 
 ## 🚀 How to Run Locally
